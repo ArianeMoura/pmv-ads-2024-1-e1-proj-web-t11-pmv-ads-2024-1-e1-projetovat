@@ -5,23 +5,11 @@
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`Desenvolvimento de aplicação web front-end`
+`Desenvolvimento de Aplicação Web Front-end`
 
 `1º semestre/2024`
 
 O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e o trabalho voluntário. 
-
-## Integrantes
-
-* Ariane Silveira Almeida Moura
-* Giovanni Finetto Santos
-* Letícia de Oliveira Silva
-* Rebeca da Conceição Custódio
-* Thais de Paula Porto Maia
-
-## Orientadora
-
-* Amália Soares Vieira de Vasconcelos
 
 # Documentação
 
@@ -46,6 +34,3 @@ O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar 
 
 * <a href="codigo-fonte/README.md">Código Fonte</a>
 
-# Apresentação
-
-* <a href="apresentacao/README.md">Apresentação do Projeto</a>
